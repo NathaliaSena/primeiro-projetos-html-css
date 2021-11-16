@@ -1,0 +1,52 @@
+body{
+    font: 100px;
+    font-family: Arial;
+    margin: 50px;
+}
+.carro{
+    background-color: black;
+    color:white;
+    
+    padding: 30px;
+    margin: 30px;
+    border-radius: 4px;
+
+}
+.btn{
+    color: black;
+    background-color: goldenrod;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: goldenrod;
+    border: none;
+    border-radius: 5%;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 5px;
+    padding: 10px;
+}
+#car{
+    font-size: 25px;
+    
+}
+.model{
+    font-weight: normal;
+}
+.destaque{
+    color: goldenrod;
+}
+p{
+    font-weight: normal;
+    font: times;
+    color: #b2b2b2;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    margin: 0px;
+}
